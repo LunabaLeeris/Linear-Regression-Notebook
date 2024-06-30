@@ -4,3 +4,4 @@ It includes
 
 1. Linear Regression using gradient descent
 2. Linear Regression using the normal equation
+3. Locall Weighted Linear Regression
