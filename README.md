@@ -6,3 +6,4 @@ It includes
 2. Linear Regression using the normal equation
 3. Locally Weighted Linear Regression
 4. Logistic Regression Using Sigmoid Function
+5. Logistic Regression Using Newton's Method
